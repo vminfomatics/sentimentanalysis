@@ -1,0 +1,13 @@
+1. install required libraries using following command-
+
+pip install seaborn
+pip install wordcloud
+pip install tweepy
+pip install wordcloud
+pip install textblob
+pip install streamlit
+
+
+2. Run Project
+
+Streamlit run App_Streamlit.py
